@@ -1,0 +1,13 @@
+All Orders (SELL):
+Payment Method: Advcash
+Payment Type: P2P
+Price: 87.82 RUB
+High Price: 87.82 RUB
+
+
+All Orders (BUY):
+Payment Method: Advcash
+Payment Type: P2P
+Price: 98.82 RUB
+High Price: 98.82 RUB
+
